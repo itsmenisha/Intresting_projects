@@ -1,2 +1,2 @@
-Here are some of intresting projects I did while learining coding in python.
+Here are some of cool and intresting projects I did while learining coding in python.
 1.QR
